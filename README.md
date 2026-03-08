@@ -1,4 +1,4 @@
-
+ 
 Performing Simple data analysis on the batch file using Spark
 
 Introduction
@@ -26,4 +26,4 @@ Analysis Cases:
 	
 	4.	Average Trip distance
 	
-	5.	Vendor ratio
+	5.	Vendor ratio.
